@@ -4,7 +4,7 @@ PrimeFlix é um aplicativo web simples para visualização de informações sobr
 
 ## 🌐 Deploy
 
-O PrimeFlix está hospedado e pode ser acessado online. Você pode experimentar a versão online em [PrimeFlix](https://example.com).
+O PrimeFlix está hospedado e pode ser acessado online. Você pode experimentar a versão online em [PrimeFlix](https://prime-flix-azure.vercel.app/).
 
 ## 📽️ Funcionalidades
 
