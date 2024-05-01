@@ -1,0 +1,45 @@
+.list-movies {
+  display: grid;
+  gap: 30px;
+  margin-top: 30px;
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+article {
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  text-align: center;
+}
+
+.list-movies img {
+  width: 60vw;
+  max-width: 400px;
+  height: 500px;
+  object-fit: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.btn-access {
+  width: 60vw;
+  max-width: 400px;
+  background-color: #483d8b;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  color: white;
+  margin-top: -6.1rem;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.btn-access:hover {
+  background-color: #6357af;
+}
